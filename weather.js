@@ -14,6 +14,3 @@ const getData =async()=>{
   })
 }
 getData()
-
-// fetch('https://api.openweathermap.org/data/2.5/forecast?lat=-6.2146&lon=106.8451&appid=5d9e2c77930406aedfd99b505c7b2012')
-// .then(res =>console.log(res))
